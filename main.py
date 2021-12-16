@@ -1,3 +1,3 @@
-def divder(x,y):
+def divider(x,y):
  return x/y
- divder(10,2)
+ 
